@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+<loc>https://news.detik.com/berita/d-9000001/pameran-otomotif-dibuka-di-jakarta</loc>
+<news:news>
+<news:publication><news:name>detikNews</news:name><news:language>id</news:language></news:publication>
+<news:publication_date>2026-11-10T10:00:00+07:00</news:publication_date>
+<news:title>Pameran Otomotif Dibuka di Jakarta</news:title>
+</news:news>
+</url>
+<url>
+<loc>https://news.detik.com/berita/d-9000002/harga-cabai-turun</loc>
+<news:news>
+<news:publication><news:name>detikNews</news:name><news:language>id</news:language></news:publication>
+<news:publication_date> 2026-11-10T19:30:00+07:00 </news:publication_date>
+<news:title> Harga Cabai Turun di Pasar Induk, Banjir Pasokan dari Jogja </news:title>
+</news:news>
+</url>
+<url>
+<loc>https://news.detik.com/berita/d-9000003/berita-lama</loc>
+<news:news>
+<news:publication><news:name>detikNews</news:name><news:language>id</news:language></news:publication>
+<news:publication_date>2026-11-07T10:00:00+07:00</news:publication_date>
+<news:title>Berita Lama di Luar Rentang</news:title>
+</news:news>
+</url>
+<url>
+<loc>https://news.detik.com/berita/d-9000004/lewat-tengah-malam</loc>
+<news:news>
+<news:publication><news:name>detikNews</news:name><news:language>id</news:language></news:publication>
+<news:publication_date>2026-11-10T18:30:00Z</news:publication_date>
+<news:title>Berita Lewat Tengah Malam WIB</news:title>
+</news:news>
+</url>
+<url>
+<loc>https://news.detik.com/berita/d-9000005/tanpa-judul</loc>
+<lastmod>2026-11-10T10:00:00+07:00</lastmod>
+</url>
+</urlset>

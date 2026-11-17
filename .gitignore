@@ -1,0 +1,19 @@
+# Secret
+.env
+
+# Data & hasil
+data/*.db
+data/*.db-*
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+tests/fixtures/mentah/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
